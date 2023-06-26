@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azin-1129
-- 👀 I’m interested in AI/Data science/Machine learning/Deep learning/NLP/CV
-- 🌱 I’m currently learning Machine learning/NLP
-- 💞️ I’m looking to collaborate on ... ?_?
+- 👀 I’m interested in AI/Deep learning/CV
+- 🌱 I’m currently learning AI/Deep learning/CV
+- 💞️ I’m looking to collaborate on CV
 - 📫 How to reach me ... nuestiloveyou@gmail.com
 
 <!---
