@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azin-1129
-- 👀 I’m interested in Backend-Develop.
-- 📫 How to reach me ... nuestiloveyou@gmail.com
+- 👋 학습에 열의를 띤 취업 준비생입니다!
+- 👀 Spring 백엔드 개발 포지션에 관심이 있어요.
+- 📫 nuestiloveyou@gmail.com
 
 <!---
 azin-1129/azin-1129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
