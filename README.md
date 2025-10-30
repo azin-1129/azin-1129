@@ -1,6 +1,6 @@
-- 👋 학습에 열의를 띤 취업 준비생입니다!
-- 👀 Spring 백엔드 개발 포지션에 관심이 있어요.
-- 📫 nuestiloveyou@gmail.com
+- 👋 어떤 상황에서든 배움을 얻고자 하는 백엔드 개발자 지망생입니다.
+- 👀 Java, Spring, MySQL 스택을 보유하고 있습니다.
+- 📫 제 이메일은: nuestiloveyou@gmail.com
 
 <!---
 azin-1129/azin-1129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
